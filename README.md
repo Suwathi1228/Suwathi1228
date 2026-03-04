@@ -9,7 +9,7 @@ I have hands-on experience in access governance, onboarding/offboarding audits, 
 Also, worked in Single sign-on and provided role based access(RBAC) for the users and clients to satisfy the policy of confidentiality and Integrity.
 I am passionate about strengthening security posture through automation, analytics, and cloud security best practices.
 
-## 🚀 Certificates 
+## 🚀 Certifications 
 -  Certified in Cybersecurity(CC) - ISC2
 - Preparing for Microsoft SC-900
 

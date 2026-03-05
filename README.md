@@ -6,7 +6,7 @@
 
 📍 Austin, TX 
 
-## 					About me
+## About me
 I am a  graduate student with 3 years professional experience in Identity and Access Management (IAM) from Tata Consultancy Services (TCS). 
 I have hands-on experience in access governance, onboarding/offboarding audits, cloud IAM, and security operations support. 
 Also, worked in Single sign-on and provided role based access(RBAC) for the users and clients to satisfy the policy of confidentiality and Integrity.
